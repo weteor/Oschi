@@ -2,7 +2,7 @@
 
 a orthogonal le chiffre-esk keyboard with hummingbird style alpha options
 
-![top](D:\.build\Oschi_rese\img\top.jpg)
+![top](img/top.jpg)
 
 ## Features
 
@@ -13,7 +13,7 @@ a orthogonal le chiffre-esk keyboard with hummingbird style alpha options
 
 ##### layout options
 
-![top](D:\.build\Oschi_rese\img\options.png)
+![top](img/options.png)
 
 make sure to grab the right combinations of plate and case top.
 
@@ -57,8 +57,11 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 
 ### more pictures
 
-![top](D:\.build\Oschi_rese\img\top_1u.jpg)
+![top](img/top_1u.jpg)
 
-![top](D:\.build\Oschi_rese\img\side.jpg)
+![top](img/side.jpg)
 
-![top](D:\.build\Oschi_rese\img\pcb.jpg)
+![top](img/pcb.jpg)
+
+---
+
